@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Castoro Titling', cursive;
+}
+
+/* Layout here  */
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+}
+.img img{
+    width: 30rem;
+    height: 28rem;
+}
+
+
+/* .section -4  */
+.card-body img{
+    width: 11rem;
+    height: 11rem;
+}
+
+/* section-5  */
+.form-img img{
+    width: 70%;
+    height: 100%;
+    border: 2px solid gray;
+}
